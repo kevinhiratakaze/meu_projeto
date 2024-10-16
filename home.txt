@@ -1,2 +1,2 @@
 Aqui estar uma linha de texto, mas que isso seriam duas linhas.
-Segunda linha adicionada, apenas isso mesmo por enquanto.
+Linha escrita na main
